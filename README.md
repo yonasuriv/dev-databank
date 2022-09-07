@@ -2,51 +2,78 @@
 ### Pentesting
 
 **Kali**
+
 -- Desktop Enviroment: **Plasma, XFCE, Gnome**
+
 -- Available Versions: **Bare Metal, Virtual Machines, Mobile, Live Boot & more**
+
 -- [Download](https://www.kali.org/get-kali/ "Download")
 
 **Parrot**
+
 -- Desktop Enviroment: **Electro Ara (Mate, KDE Plasma and XFCE)**
+
 -- Available Versions: **Home, Security, Cloud & more**
+
 -- [Download](https://parrotsec.org/download/ "Download")
 
 **Black Arch**
+
 -- Desktop Enviroment: **-**
+
 -- Available Versions: **Full, Slim**
+
 -- [Download](https://www.blackarch.org/downloads.html "Download")
 
 ### Daily Use
 
 **Manjaro**
+
 -- Desktop Enviroment: **Plasma, XFCE, Gnome & more**
+
 -- Available Versions: **Full, Minimal**
+
 -- [Download](https://manjaro.org/download/ "Download")
 
 **Fedora**
+
 -- Desktop Enviroment: **Plasma, XFCE, Gnome**
+
 -- Available Versions: **Full, Media Writer (Live)**
+
 -- [Download](https://getfedora.org/en/workstation/download/ "Download")
 
 
 **Pop**
+
 -- Desktop Enviroment: **Gnome**
+
 -- Available Versions: **Full**
+
 -- [Download](https://pop.system76.com/ "Download")
 
 **Solus**
+
 -- Desktop Enviroment: **Gnome, Budgie, Plasma, Mate**
+
 -- Available Versions: **Full, Media Writer (Live)**
+
 -- [Download](https://getsol.us/download/ "Download")
 
 **Ubuntu**
+
 -- Desktop Enviroment: **Gnome, Budgie**
+
 -- Available Versions: **Full (Desktop), Server, Cloud**
+
 -- [Download](https://ubuntu.com/download#download "Download")
 
 **Zorin**
+
 -- Desktop Enviroment:  **Gnome, XFCE**
+
 -- Available Versions: **Full (Core), Lite**
+
 -- [Download](https://zorin.com/os/download/ "Download")
 
 ## How to choose the perfect Desktop Enviroment

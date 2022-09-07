@@ -56,7 +56,7 @@
 
 -- Desktop Enviroment: **Gnome, Budgie, Plasma, Mate**
 
--- Available Versions: **Full, Media Writer (Live)**
+-- Available Versions: **Full**
 
 -- [Download](https://getsol.us/download/ "Download")
 

@@ -1,4 +1,5 @@
 
+
 ### Pentesting
 
 **Kali**
@@ -82,9 +83,54 @@ I will try to cover all the desktop environments that are officially supported b
 
 and i will simply follow the same order. And All of these are free. These are all also compatible as they are officially available in Arch repos. So, No issues of compatibility.
 
+#### BEST DESKTOP ENVIRONMENTS
+
+### GNOME
+
+> Gnome is a modern desktop environment, the layout is different from
+> other options but easy and intuitive to learn, it will give your
+> computer a fresh start.
+
+**Pros:** Modern. Highly popular. Has been around for a long time and is super easy and stable. seems like a tablet interface which looks more classy. Definitely the most popular and nicely documented. good number of extensions ready to be used.
+
+**Cons:** A bit different from the traditional desktop and can be really heavy on resources.
+
+### KDE Plasma
+
+> Plasma desktop environment favors KDE/QT technologies and from all
+> desktops it offers the most complete configurations and options inside
+> a UI. The UI resembles Windows layout, if you know Windows inside out
+> and are not overwhelmed with the amount of options available to you
+> then this maybe the one for you.
+
+**Pros:** Highly customizable. Full suite of almost all apps from text editor to Video editor. Huge User as well as developer base.
+
+**Cons:** heavy on resources. A bit buggy due to heavy customizable features.
+
+### MATE
+
+> Mate provides an intuitive and attractive desktop to Linux users
+> using traditional metaphors. MATE is a fork of GNOME 2.
+
+
+**Pros:** Simple, Beautiful, Customizable and everything nice
+
+**Cons:** No Cons except looks a bit traditional.
+
+### XFCE
+
+> Xfce is a lightweight desktop environment. It aims to be fast and low
+> on system resources, while being rock solid. The UI layout resembles
+> Windows OS, if you've never tried Manjaro or Linux before, this is a
+> great starting point.
+
+**Pros:** Modern and lightweight. Has both traditional and modern looks and available to customize.
+
+**Cons:** Not many complaints here either, but you need to tweak it to make it look more pretty.
+
+#### OTHER DESKTOP ENVIRONMENTS 
+
 ### Budgie
-
-
 
 > Budgie is a desktop environment designed with the modern user in mind,
 > it focuses on simplicity and elegance.
@@ -124,25 +170,6 @@ and i will simply follow the same order. And All of these are free. These are al
 
 **Cons:** Sucks in Arch. Has many bugs. Practically No Documentation. Kind of Abandoned after dumped by the Bodhi linux distro.
 
-### GNOME
-
-> The GNOME desktop environment is an attractive and intuitive desktop
-> with both a modern (GNOME) and a classic (GNOME Classic) session.
-
-**Pros:** Modern. Highly popular. Has been around for a long time and is super easy and stable. seems like a tablet interface which looks more classy. Definitely the most popular and nicely documented. good number of extensions ready to be used.
-
-**Cons:** A bit different from the traditional desktop and can be really heavy on resources.
-
-### KDE Plasma
-
-> The KDE Plasma desktop environment is a familiar working environment.
-> Plasma Desktop offers all the tools required for a modern desktop
-> computing experience so you can be productive right from the start.
-
-**Pros:** Highly customizable. Full suite of almost all apps from text editor to Video editor. Huge User as well as developer base.
-
-**Cons:** heavy on resources. A bit buggy due to heavy customizable features
-
 ### LXDE
 
 > The Lightweight X11 Desktop Environment is a fast and energy-saving
@@ -154,29 +181,6 @@ and i will simply follow the same order. And All of these are free. These are al
 **Pros:** The description says it all. 
 
 **Cons:** Just the fact it is not as beautiful as the others.
-
-### MATE
-
-> Mate provides an intuitive and attractive desktop to Linux users
-> using traditional metaphors. MATE is a fork of GNOME 2.
-
-
-**Pros:** Simple, Beautiful, Customizable and everything nice
-
-**Cons:** No Cons except looks a bit traditional.
-
-### XFCE
-
-> Xfce embodies the traditional UNIX philosophy of modularity and
-> re-usability. It consists of a number of components that provide the
-> full functionality one can expect of a modern desktop environment,
-> while remaining relatively light. They are packaged separately and you
-> can pick among the available packages to create the optimal personal
-> working environment.
-
-**Pros:** Modern and lightweight. Has both traditional and modern looks and available to customize.
-
-**Cons:** Not many complaints here either, but you need to tweak it to make it look more pretty.
 
 ## Conclusion
 
